@@ -10,7 +10,7 @@
 - 🌱 Currently enhancing my skills in Java, Spring Boot, React.js, and MySQL
 - 🚀 Developed web applications including Job Notification Tracker, Weather App, LMS, and HireHub Job Portal
 - 📚 Interested in Backend Development, REST APIs, and Database Management
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: deepanoolvi987@gmail.com
 
 ---
 
